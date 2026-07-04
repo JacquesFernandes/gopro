@@ -4,6 +4,8 @@
 
 CLI tool to connect to a GoPro, enumerate videos, group them based on date and move them off the GoPro
 
+I'm trying to keep the dependencies of this project to an absolute minimum.
+
 ## Motivation
 
 Made this tool while needing a way to automate moving recordings I make of my drives.
